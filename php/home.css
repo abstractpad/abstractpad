@@ -21,3 +21,17 @@
     display: grid;
     grid-template-columns: 50% 50%;
 }
+
+.homecont .btn{
+    color: black;
+    font-size: 6px;
+    padding: 1%;
+    background: beige;
+    border-radius: 15px;
+}
+
+.homecont .btn:hover{
+    color: beige;
+    background: gray;
+    transition: .8s;
+}
