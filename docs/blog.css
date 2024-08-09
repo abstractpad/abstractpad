@@ -1,0 +1,69 @@
+
+.blg,
+.blogcont{
+    overflow-y: auto;
+    height: 500px;
+}
+
+.t3hcont{
+    background: beige;
+}
+
+.t3hcont h1,
+.blg h3{
+    color: rgb(50, 50, 50);
+}
+
+.blg h3{
+    padding: 1% 0 0 0;
+    height: 40px;
+    margin: 0;
+    width: 80%;
+    background: beige;
+    position: absolute;
+}
+
+.blogspace{
+    height: 350px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.blogspace .pcont{
+    margin: 1%;
+}
+
+.incontner4{
+    overflow-y: auto;
+    text-align: center;
+    margin: 2% 2% 0 2%;
+    /* border: 2px solid rgb(50, 50, 50); */
+    height: 300px;
+}
+
+.incontner4 h2{
+    text-decoration: underline;
+}
+
+
+.imgconttt{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#wp1{background-image: url(../imgs/ecom.jpeg);}
+#wp2{background-image: url(../imgs/social.jpg);}
+#wp3{background-image: url(../imgs/jobapp.jpeg);}
+#wp4{background-image: url(../imgs/resumebuilder.jpg);}
+#wp5{background-image: url(../imgs/healthcare.jpeg);}
+#wp6{background-image: url(../imgs/coursep.jpeg);}
+#wp7{background-image: url(../imgs/gaming.jpg);}
+#wp8{background-image: url(../imgs/freelancing.jpeg);}
+#wp9{background-image: url(../imgs/ocodeeditor.jpeg);}
+#wp10{background-image: url(../imgs/trading.jpeg);}
+
+
+.bloghcont{
+    margin: 0 1% 1% 1%;
+    height: 50px;
+}
