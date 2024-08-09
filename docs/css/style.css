@@ -3,6 +3,10 @@ body{
     color: black;
 }
 
+iframe{
+    overflow: hidden;
+}
+
 .text-align{
     text-align: center;
 }
