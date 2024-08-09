@@ -13,8 +13,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Index - Veyda Arts n Designs</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="t3cont.css">
+    <link rel="stylesheet" href="../php/style.css">
+    <link rel="stylesheet" href="../php/t3cont.css">
     <!-- Link SwiperJs CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
     <script src="https://kit.fontawesome.com/90575e6a68.js" crossorigin="anonymous"></script>
