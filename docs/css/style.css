@@ -1,10 +1,13 @@
-body{
-    
+nav{
+    background: black;
 }
 
-.navbar{
-    color: black;
+nav a{
+    color: white;
 }
+
+
+
 .contner{
     border: 2px solid black;
     width: 800px;
