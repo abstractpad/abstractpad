@@ -4,6 +4,12 @@
     width: 100%;
 }
 
+.cont{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
+
 .nav{
     width: 60%;
     background: black;
