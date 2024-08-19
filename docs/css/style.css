@@ -1,9 +1,9 @@
-.nav-item{
+.nav{
     width: 60%;
     background: black;
 }
 
-.nav-item ul li a{
+.nav-item .navlink{
     color: white;
 }
 
