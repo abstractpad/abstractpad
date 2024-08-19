@@ -1,13 +1,13 @@
-nav{
+.nav-item{
     width: 60%;
     background: black;
 }
 
-nav a{
+.nav-item ul li a{
     color: white;
 }
 
-nav ul li{
+.nav-item ul li{
     display: inline;
 }
 
