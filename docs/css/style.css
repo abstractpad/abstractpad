@@ -1,7 +1,5 @@
-.bodyc{
-    border: 1px solid black;
-    height: 1200px;
-    width: 100%;
+body{
+    color: yellow;
 }
 
 .cont{
