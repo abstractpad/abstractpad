@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+a{
+    color: cadetblue;
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+    color: cyan;
+    transition: .8s;
+}
+
+a:active{
+    text-decoration: underline;
+}
+
+i{
+    color: white;
+    background: grey;
+}
+
+img{
+    width: 14px;
+}
