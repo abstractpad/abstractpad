@@ -1,5 +1,6 @@
 
 .contner1{
+    bottom: 50%;
     display: grid;
     grid-template-columns: 40% 60%;
     background: black;
