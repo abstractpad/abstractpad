@@ -2,7 +2,7 @@
     bottom: 50%;
     display: grid;
     grid-template-columns: 40% 60%;
-    background-image: url(../imgs/100.jpg);
+    background-image: url(../imgs/19.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 1%;
@@ -20,6 +20,10 @@ li{
 }
 
 .hcnt{
+    padding: 1%;
+    height: 30px;
+    backdrop-filter: blur(15px);
+    margin: 2% 0 0 0;
     color: black;
 }
 
@@ -53,7 +57,7 @@ li{
     background: white;
     margin: 1%;
     width: 220px;
-    height: 22px;
+    height: 28px;
     border-radius: 15px;
 }
 
@@ -82,6 +86,10 @@ li{
     display: flex;
     margin: 1%;
     border: 1px solid white;
+}
+
+.navbars a{
+    color: black;
 }
 
 .otherlinks{
@@ -120,6 +128,10 @@ li{
 }
 
 .contnt2{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../imgs/100.jpg);
     color: black;
     margin: 1%;
     height: 400px;
@@ -128,21 +140,26 @@ li{
 }
 
 .contnt2 h2{
+    color: black;
     text-align: center;
 }
 
 .contnt2 .hcnt{
+    backdrop-filter: blur(15px);
     margin: 1%;
 }
 
 .contnt2 .aboutus{
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-image: url(../imgs/19.jpg);
     padding: 1%;
-    height: 300px;
-    color: black;
+    height: 50px;
+    color: white;
+    backdrop-filter: blur(15px);
+}
+
+.contnt2 .project{
+
+    backdrop-filter: blur(15px);
+    padding: 2%; 
 }
 
 .contnt3{
@@ -150,4 +167,8 @@ li{
     height: 200px;
     width: 85%;
     border: 1px solid black;
+}
+
+.intro h3{
+    text-align: center;
 }

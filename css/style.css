@@ -4,17 +4,17 @@ body{
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
-    color: white;
+    color: black;
 }
 
 a{
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 a:hover{
     cursor: pointer;
-    color: darkslategrey;
+    color: cadetblue;
     transition: .8s;
 }
 
@@ -24,6 +24,10 @@ a:active{
 
 img{
     width: 14px;
+}
+
+hr{
+    margin: 1%;
 }
 
 /* iframe{
