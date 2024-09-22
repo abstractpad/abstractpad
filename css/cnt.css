@@ -163,6 +163,9 @@ li{
 }
 
 .contnt3{
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-image: url(../imgs/200.jpg); */
     margin: 1% 0 0 7%;
     height: 200px;
     width: 85%;
@@ -171,4 +174,25 @@ li{
 
 .intro h3{
     text-align: center;
+}
+
+.fc1{
+    margin: 3% 0 0 25%;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    width: 50%;
+}
+
+.fc1 img{
+    width: 25px;
+}
+
+.fc2{
+    margin: 4% 0 0 15%;
+    width: 70%;
+}
+
+.fc3{
+    width: 20%;
+    margin: 4% 0 0 40%;
 }
