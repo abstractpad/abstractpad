@@ -1,9 +1,10 @@
-
 .contner1{
     bottom: 50%;
     display: grid;
     grid-template-columns: 40% 60%;
-    background: black;
+    background-image: url(../imgs/100.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 1%;
     border: 1px solid black;
     height: 160px;
@@ -18,12 +19,16 @@ li{
     flex: 1;
 }
 
+.hcnt{
+    color: black;
+}
+
 .lcontnt{
     border: 1px solid white;
     margin: 1%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../imgs/14.jpg);
+    background-image: url(../imgs/31.jpg);
     height: 70px;
     width: 70px;
 }
@@ -74,11 +79,35 @@ li{
 }
 
 .navbars{
+    display: flex;
     margin: 1%;
     border: 1px solid white;
 }
 
+.otherlinks{
+    display: flex;
+    margin: 2% 0 0 0;
+}
+
+.otherlinks button{
+    background: white;
+    width: 100px;
+    height: 30px;
+    padding: 1%;
+    font-size: 12px;
+    border-radius: 15px;
+    padding: 1%;
+    font-size: 12px;
+}
+
+.otherlinks button:hover{
+    border: 1px solid white;
+    transition: .8s;
+    cursor: pointer;
+}
+
 .navntner li{
+    margin: 2% 0 0 0;
     display: inline;
 }
 
@@ -91,10 +120,29 @@ li{
 }
 
 .contnt2{
+    color: black;
     margin: 1%;
-    height: 300px;
+    height: 400px;
     width: 100%;
     border: 1px solid black;
+}
+
+.contnt2 h2{
+    text-align: center;
+}
+
+.contnt2 .hcnt{
+    margin: 1%;
+}
+
+.contnt2 .aboutus{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../imgs/19.jpg);
+    padding: 1%;
+    height: 300px;
+    color: black;
 }
 
 .contnt3{
