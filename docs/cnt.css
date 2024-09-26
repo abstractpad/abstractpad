@@ -192,6 +192,17 @@ li{
     width: 70%;
 }
 
+.contnt3 .fc2 ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+.contnt3 .fc2 ul li a:hover{
+    color: brown;
+    transition: .8s;
+    cursor: pointer;
+}
+
 .fc3{
     width: 20%;
     margin: 4% 0 0 40%;
