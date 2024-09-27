@@ -2,7 +2,7 @@
     bottom: 50%;
     display: grid;
     grid-template-columns: 40% 60%;
-    background-image: url(../imgs/19.jpg);
+    background-image: url(19.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 1%;
@@ -32,7 +32,7 @@ li{
     margin: 1%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../imgs/31.jpg);
+    background-image: url(31.jpg);
     height: 70px;
     width: 70px;
 }
@@ -131,7 +131,7 @@ li{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: url(../imgs/100.jpg);
+    background-image: url(100.jpg);
     color: black;
     margin: 1%;
     height: 400px;
